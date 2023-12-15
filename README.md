@@ -1,7 +1,7 @@
 # Fullstack project
 
 1. [fs16-frontend](https://github.com/TungNguyen12/Library-Frontend)
-2. [fs16-backend](https://github.com/Integrify-Finland/fs16-backend)
+2. [fs16-backend](https://github.com/TungNguyen12/fs-16-backend-project-public)
 
 You should `NOT` copy paste the code to this repo instead do this:
 
