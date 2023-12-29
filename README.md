@@ -8,7 +8,6 @@ Lahti library is a library website, providing the essential features to the user
 - [Technologies](#technologies)
 - [Key features](#keyfeatures)
 - [What I learned!](#whatIlearned!)
-- [How to contribute](#howtocontribute)
 ***
 
 ## Introduction
@@ -22,6 +21,13 @@ Lahti library is a library website, providing the essential features to the user
 
  ### Target audiences
  The audiences are all ages, who want to borrow then return the books from the library
+
+ ### User flow
+ 1. Startpoint: Home page
+ 2. Endpoints: Sign out, Cart page, My loans page
+
+ ![image](https://github.com/TungNguyen12/Fullstack-Library/assets/42717717/f23311a8-c4df-470a-ac75-c0658082e4bc)
+
 ***
 
 ## Technologies
@@ -63,13 +69,11 @@ Lahti library is a library website, providing the essential features to the user
  - Sharpening team collaboration and communication in Backend where it's a team work
  - CI/CD pipelines implementation: Testing and Deploys
  - Applying best-practices and tools for unify and convention to improve collaboration and CI/CD eg, eslint, prettier,...
- - 
-what I learned /key takeaways from this project 
- - git branches: PR, feature/Bug fix branches
- - CI/CD pipelines: Testing, deploys
- - Code structure: Group files by types (reducers, components, pages)
-key features
-This is a library application were built from different technologies
+ - Code structure: Group files by types, eg, redux, components, pages, types,...
+ - Git actions/branches:
+    - Pull requests, branches by purposes: feature, hotfix,...
+    - Read and reviewing colleagues' code
+
 
 1. [Frontend](https://github.com/TungNguyen12/Library-Frontend)
 2. [Backend](https://github.com/TungNguyen12/fs-16-backend-project-public)
