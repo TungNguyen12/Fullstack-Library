@@ -7,7 +7,7 @@ Lahti library is a library website, providing the essential features to the user
 - [Introduction](#introduction)
 - [Technologies](#technologies)
 - [Key features](#keyfeatures)
-- [My learnings](#mylearnings)
+- [What I learned!](#whatIlearned!)
 - [How to contribute](#howtocontribute)
 ***
 
@@ -48,8 +48,22 @@ Lahti library is a library website, providing the essential features to the user
  - Searching, Sorting books with pagination
 
  - Borrower type of user:
-    - Create, Update, Delete account
+    - CRUD actions (personal account)
+    - Borrow/Return books
+    - Check history
+    - Add/Remove books, Empty cart
+  
+ - Admin type of user:
+    - CRUD actions to User and Book
+    - Increase/Decrease Books' copies
+    - Check Borrowers' histories
+***
 
+## What I learned
+ - Sharpening team collaboration and communication in Backend where it's a team work
+ - CI/CD pipelines implementation: Testing and Deploys
+ - Applying best-practices and tools for unify and convention to improve collaboration and CI/CD eg, eslint, prettier,...
+ - 
 what I learned /key takeaways from this project 
  - git branches: PR, feature/Bug fix branches
  - CI/CD pipelines: Testing, deploys
