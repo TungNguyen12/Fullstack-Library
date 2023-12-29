@@ -8,6 +8,7 @@ Lahti library is a library website, providing the essential features to the user
 - [Technologies](#technologies)
 - [Key features](#keyfeatures)
 - [What I learned!](#whatIlearned!)
+- [Deployment](#deployment)
 ***
 
 ## Introduction
@@ -73,8 +74,13 @@ Lahti library is a library website, providing the essential features to the user
  - Git actions/branches:
     - Pull requests, branches by purposes: feature, hotfix,...
     - Read and reviewing colleagues' code
+***
 
+## Deployment
+1. Visit my individual Frontend work here:
+[Frontend](https://github.com/TungNguyen12/Library-Frontend)
 
-1. [Frontend](https://github.com/TungNguyen12/Library-Frontend)
-2. [Backend](https://github.com/TungNguyen12/fs-16-backend-project-public)
+2. Visit our group Backend work here:
+[Backend](https://github.com/TungNguyen12/fs-16-backend-project-public)
 
+3. Visit my official Library application [HERE](https://main--lahtilibrary.netlify.app/)
