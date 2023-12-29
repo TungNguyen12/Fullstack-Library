@@ -33,7 +33,7 @@ Lahti library is a library website, providing the essential features to the user
    - Typescript
    - Jest
      
- 2. Backend:
+2. Backend:
    - NodeJs
    - ExpressJs
    - MongoDB
@@ -41,6 +41,14 @@ Lahti library is a library website, providing the essential features to the user
    - Typescript
    - Jest
 ***
+
+## Key features
+ - User authentication and authorization
+ - Google login
+ - Searching, Sorting books with pagination
+
+ - Borrower type of user:
+    - Create, Update, Delete account
 
 what I learned /key takeaways from this project 
  - git branches: PR, feature/Bug fix branches
