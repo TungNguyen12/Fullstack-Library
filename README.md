@@ -83,4 +83,4 @@ Lahti library is a library website, providing the essential features to the user
 2. Visit our group Backend work here:
 [Backend](https://github.com/TungNguyen12/fs-16-backend-project-public)
 
-3. Visit my official Library application [HERE](https://main--lahtilibrary.netlify.app/)
+3. Visit my official Library application [HERE](https://tungnguyen12.github.io/Library-Frontend/)
